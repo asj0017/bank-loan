@@ -1,2 +1,2 @@
 # bank-loan-project
-Calculates customer's bank account.
+Calculates customer's bank account balance.
